@@ -1,0 +1,57 @@
+[
+  {
+    "name": "root",
+    "type": "folder",
+    "children": [
+      {
+        "name": "Documents",
+        "type": "folder",
+        "children": [
+          {
+            "name": "report.pdf",
+            "type": "file",
+            "size": "2.4MB"
+          },
+          {
+            "name": "Projects",
+            "type": "folder",
+            "children": [
+              {
+                "name": "project_plan.docx",
+                "type": "file",
+                "size": "1.2MB"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pictures",
+        "type": "folder",
+        "children": [
+          {
+            "name": "vacation",
+            "type": "folder",
+            "children": [
+              {
+                "name": "beach.jpg",
+                "type": "file",
+                "size": "5.1MB"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "config.json",
+        "type": "file",
+        "size": "4KB"
+      },
+      {
+        "name": "notes.txt",
+        "type": "file",
+        "size": "1KB"
+      }
+    ]
+  }
+]
